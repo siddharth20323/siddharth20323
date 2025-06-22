@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  SIDDHARTH
-- 👀 I’m interested in studying computer science,dsa,coding and web development.
+- 👀 I’m interested in studying computer science,dsa,machine learning,deep learning.
 - 🌱 I’m currently studying at Delhi University
   
 <!---
